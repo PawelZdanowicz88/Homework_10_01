@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.10)
 
 project(Homework_10_01)
 
-add_executable(work01 main.cpp)
+add_executable(Homework_10_01 main.cpp)
